@@ -1,3 +1,7 @@
+.container_wrapper {
+    text-align: center;
+}
+
 .container {
     display: inline-block;
     background-color: orange;
